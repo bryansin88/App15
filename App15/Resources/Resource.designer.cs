@@ -3109,6 +3109,9 @@ namespace App15
 			// aapt resource value: 0x7f04003d
 			public const int Vista_Dos = 2130968637;
 			
+			// aapt resource value: 0x7f04003e
+			public const int Vista_tres = 2130968638;
+			
 			static Layout()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
