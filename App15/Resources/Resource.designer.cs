@@ -2597,8 +2597,8 @@ namespace App15
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f0800b4
-			public const int masked = 2131230900;
+			// aapt resource value: 0x7f0800b5
+			public const int masked = 2131230901;
 			
 			// aapt resource value: 0x7f0800a2
 			public const int media_actions = 2131230882;
@@ -2753,6 +2753,9 @@ namespace App15
 			// aapt resource value: 0x7f080064
 			public const int spacer = 2131230820;
 			
+			// aapt resource value: 0x7f0800b3
+			public const int spinner1 = 2131230899;
+			
 			// aapt resource value: 0x7f080008
 			public const int split_action_bar = 2131230728;
 			
@@ -2858,8 +2861,8 @@ namespace App15
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800b3
-			public const int visible = 2131230899;
+			// aapt resource value: 0x7f0800b4
+			public const int visible = 2131230900;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3110,13 +3113,16 @@ namespace App15
 			public const int Vista_5 = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int Vista_Dos = 2130968638;
+			public const int Vista_7 = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int Vista_tres = 2130968639;
+			public const int Vista_Dos = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int Visual_forms = 2130968640;
+			public const int Vista_tres = 2130968640;
+			
+			// aapt resource value: 0x7f040041
+			public const int Visual_forms = 2130968641;
 			
 			static Layout()
 			{
