@@ -3107,10 +3107,13 @@ namespace App15
 			public const int tooltip = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int Vista_Dos = 2130968637;
+			public const int Vista_5 = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int Vista_tres = 2130968638;
+			public const int Vista_Dos = 2130968638;
+			
+			// aapt resource value: 0x7f04003f
+			public const int Vista_tres = 2130968639;
 			
 			static Layout()
 			{
