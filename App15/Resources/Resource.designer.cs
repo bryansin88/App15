@@ -2597,8 +2597,8 @@ namespace App15
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f0800b3
-			public const int masked = 2131230899;
+			// aapt resource value: 0x7f0800b4
+			public const int masked = 2131230900;
 			
 			// aapt resource value: 0x7f0800a2
 			public const int media_actions = 2131230882;
@@ -2798,6 +2798,9 @@ namespace App15
 			// aapt resource value: 0x7f08008b
 			public const int textView1 = 2131230859;
 			
+			// aapt resource value: 0x7f0800b2
+			public const int textView2 = 2131230898;
+			
 			// aapt resource value: 0x7f08009b
 			public const int text_input_password_toggle = 2131230875;
 			
@@ -2855,8 +2858,8 @@ namespace App15
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800b2
-			public const int visible = 2131230898;
+			// aapt resource value: 0x7f0800b3
+			public const int visible = 2131230899;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3105,6 +3108,9 @@ namespace App15
 			
 			// aapt resource value: 0x7f04003d
 			public const int Vista_Dos = 2130968637;
+			
+			// aapt resource value: 0x7f04003e
+			public const int Vista_tres = 2130968638;
 			
 			static Layout()
 			{
