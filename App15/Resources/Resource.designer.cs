@@ -2450,6 +2450,9 @@ namespace App15
 			// aapt resource value: 0x7f0800b0
 			public const int checkBox1 = 2131230896;
 			
+			// aapt resource value: 0x7f0800b1
+			public const int checkBox2 = 2131230897;
+			
 			// aapt resource value: 0x7f080073
 			public const int checkbox = 2131230835;
 			
@@ -2594,8 +2597,8 @@ namespace App15
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f0800b2
-			public const int masked = 2131230898;
+			// aapt resource value: 0x7f0800b3
+			public const int masked = 2131230899;
 			
 			// aapt resource value: 0x7f0800a2
 			public const int media_actions = 2131230882;
@@ -2852,8 +2855,8 @@ namespace App15
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int visible = 2131230897;
+			// aapt resource value: 0x7f0800b2
+			public const int visible = 2131230898;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
