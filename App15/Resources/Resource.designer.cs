@@ -3113,13 +3113,16 @@ namespace App15
 			public const int Vista_5 = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int Vista_Dos = 2130968638;
+			public const int Vista_7 = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int Vista_tres = 2130968639;
+			public const int Vista_Dos = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int Visual_forms = 2130968640;
+			public const int Vista_tres = 2130968640;
+			
+			// aapt resource value: 0x7f040041
+			public const int Visual_forms = 2130968641;
 			
 			static Layout()
 			{
